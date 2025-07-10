@@ -1,4 +1,4 @@
-🍽️ Fork Biestro – Restaurant Website
+## 🍽️ Fork Biestro – Restaurant Website
 
 "Fork-Biestro" is a visually-rich and responsive restaurant website designed with a minimal, vintage aesthetic. It was created as a personal project to strengthen my frontend skills and build a polished portfolio piece.
 
@@ -26,10 +26,10 @@
 
 
 > 🖼️ Live Preview:
-[🔗 First Biestro – View Project]() 
+[🔗 First Biestro – View Project](https://ritosri-saha.github.io/Fork-Biestro/) 
 
 ---
-Author
+Author<br>
 Ritosri Saha
 
 
