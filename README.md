@@ -26,7 +26,7 @@
 
 
 > 🖼️ Live Preview:
-[🔗 First Biestro – View Project](https://raw.githubusercontent.com/Ritosri-Saha/Fork-Biestro/main/assests/Biestro_Fork_1.5.zip) 
+[🔗 First Biestro – View Project](https://ritosri-saha.github.io/Fork-Biestro/) 
 
 ---
 Author<br>
